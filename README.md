@@ -37,6 +37,12 @@ I enjoy collaborating on projects that challenge my problem-solving skills. Here
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhaliid98&layout=compact&theme=tokyonight)
 
 ---
+### 📜 Certifications
+
+* **Introduction to Cybersecurity** – Issued by Cisco networking academy program | [2, 2025]
+* **Networking Basics** – Issued by Cisco networking academy program| [4, 2026]
+* 
+---
 
 ### 📫 Let's Connect
 
