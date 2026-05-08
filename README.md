@@ -1,52 +1,83 @@
-# Hi there! I'm mohamed khalid 👋
+# Hi, I'm Mohamed Khalid 👋
 
-I am a Computer Science student and Developer focused on building clean, maintainable systems. I enjoy diving into complex logic, whether it's optimizing AI for strategy games or building responsive web interfaces.Also very into Networks and CyberSecurity
-
-### 🛠 Tech Stack & Skills
-
-- **Languages:** C++, JavaScript, HTML5, CSS3
-- **Principles:** Object-Oriented Programming (OOP), SOLID Principles, Data Structures & Algorithms
-- **Logic & AI:** Game AI (Minimax, Alpha-Beta Pruning), Heuristic Evaluation, Image Processing Algorithms
+CS student at Cairo University · Cairo, Egypt
+Focused on offensive security, systems programming, and AI.
 
 ---
 
-### 🤝 Open Source & Contributions
+## About me
 
-I enjoy collaborating on projects that challenge my problem-solving skills. Here are some repositories I have contributed to:
+I'm a second-year Computer Science student with a passion for breaking things (ethically or not 🤫).
+My background is in systems programming and AI — I've built game engines, image processors,
+and AI players using Minimax and Alpha-Beta pruning in C++.
 
-#### [Board Games](https://github.com/AlyTarek44/Board-Games)
-*A collection of strategy games featuring intelligent AI players.*
-- **My Contribution:** Focused on the implementation of **Minimax algorithms** and **Alpha-Beta pruning** for game variants like 5x5 Tic-Tac-Toe and Four-in-a-Row.
-- **Tech:** C++, Game Logic Optimization.
-
-#### [Enhanced Audio Player](https://github.com/AlyTarek44/Enhanced-Audio-Player)
-*A feature-rich web-based music application.*
-- **My Contribution:** worked on a Audio Player with a team from my university,built the Player using JUCE framework.
-- **Tech:** c++.
-
-#### [Image Editing Project](https://github.com/AlyTarek44/image-editing-project)
-*A tool for digital image manipulation.*
-- **My Contribution:** Assisted in developing functional image processing features and UI interactions to streamline the editing workflow.
-- **Tech:** c++.
+Recently I've gone deep into offensive security. I completed all 34 levels of OverTheWire
+Bandit, hold 4 Cisco networking certifications, and I'm actively working toward a
+career in penetration testing and red teaming.
 
 ---
 
-### 📊 My GitHub Journey
+## Skills
 
-![Your Stats](https://github-readme-stats.vercel.app/api?username=mohamedkhaliid98&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedkhaliid98&layout=compact&theme=tokyonight)
+**Languages:** C++, JavaScript, HTML, CSS
+**Security:** Linux privilege escalation, SSH, network pivoting, port scanning, web exploitation
+**CS fundamentals:** OOP, SOLID, Data Structures & Algorithms
+**AI & Logic:** Minimax, Alpha-Beta pruning, heuristic evaluation, image processing
 
 ---
-### 📜 Certifications
 
-* **Introduction to Cybersecurity** – Issued by Cisco networking academy program | [2, 2025]
-* **Networking Basics** – Issued by Cisco networking academy program| [4, 2026]
-* 
+## Certifications
+
+- Introduction to Cybersecurity — Cisco Networking Academy (2025)
+- Networking Basics — Cisco Networking Academy (2026)
+- Networking Devices & Initial Configuration — Cisco Networking Academy (2026)
+- Endpoint Security — Cisco Networking Academy (2026)
+
 ---
 
-### 📫 Let's Connect
+## Security portfolio
 
-- **GitHub:** [mohamedkhaliid98](https://github.com/mohamedkhaliid98)
-- **Interest Areas:** I'm always looking to contribute to C++ software, Game Engine development, networks, and CyberSecurity.
+### OverTheWire Bandit — completed all 34 levels
+Linux-based security wargame covering SSH, file permissions, privilege escalation,
+network pivoting, cryptography, and binary fundamentals.
+Writeups: github.com/mohamedkhaliid98/OverTheWire-Writeups
 
-*"Code is for humans to read, and only incidentally for machines to execute."*
+---
+
+## Projects & contributions
+
+### Board Games — AI engine
+Strategy games with intelligent AI players.
+My contribution: Minimax and Alpha-Beta pruning for 5x5 Tic-Tac-Toe and Four-in-a-Row.
+Tech: C++
+
+### Enhanced Audio Player
+Feature-rich music application built with a university team.
+My contribution: Audio player core using the JUCE framework.
+Tech: C++
+
+### Image Editing Project
+Digital image manipulation tool.
+My contribution: Image processing features and UI interactions.
+Tech: C++
+
+---
+
+## Currently working on
+
+- PortSwigger Web Academy (web exploitation labs)
+- Natas(Web Hacking) overthewire labs
+- TryHackMe Jr Penetration Tester path
+  
+
+---
+
+## Connect
+
+Linkedin:[ ](https://www.linkedin.com/in/mohamed-khalid-4166a3378/)
+Location: Cairo, Egypt
+Interests: Penetration testing · Red teaming · Systems programming · C++
+
+---
+
+> "The quieter you become, the more you are able to hear." — Kali Linux
