@@ -40,7 +40,7 @@ career in penetration testing and red teaming.
 ### OverTheWire Bandit — completed all 34 levels
 Linux-based security wargame covering SSH, file permissions, privilege escalation,
 network pivoting, cryptography, and binary fundamentals.
-Writeups: github.com/mohamedkhaliid98/OverTheWire-Writeups
+Writeups: [github.com/mohamedkhaliid98/OverTheWire-Writeups](https://github.com/mohamedkhaliid98/OverTheWire-Writups)
 
 ---
 
@@ -74,7 +74,7 @@ Tech: C++
 
 ## Connect
 
-Linkedin:[ ](https://www.linkedin.com/in/mohamed-khalid-4166a3378/)
+Linkedin:[My Linkedin](https://www.linkedin.com/in/mohamed-khalid-4166a3378/)
 Location: Cairo, Egypt
 Interests: Penetration testing · Red teaming · Systems programming · C++
 
