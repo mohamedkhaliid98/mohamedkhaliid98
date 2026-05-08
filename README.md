@@ -51,17 +51,23 @@ Writeups: [github.com/mohamedkhaliid98/OverTheWire-Writeups](https://github.com/
 
 ### Board Games — AI engine
 Strategy games with intelligent AI players.
+
 My contribution: Minimax and Alpha-Beta pruning for 5x5 Tic-Tac-Toe and Four-in-a-Row.
+
 Tech: C++
 
 ### Enhanced Audio Player
 Feature-rich music application built with a university team.
+
 My contribution: Audio player core using the JUCE framework.
+
 Tech: C++
 
 ### Image Editing Project
 Digital image manipulation tool.
+
 My contribution: Image processing features and UI interactions.
+
 Tech: C++
 
 ---
@@ -78,7 +84,9 @@ Tech: C++
 ## Connect
 
 Linkedin:[My Linkedin](https://www.linkedin.com/in/mohamed-khalid-4166a3378/)
+
 Location: Cairo, Egypt
+
 Interests: Penetration testing · Red teaming · Systems programming · C++
 
 ---
