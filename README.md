@@ -20,8 +20,11 @@ career in penetration testing and red teaming.
 ## Skills
 
 **Languages:** C++, JavaScript, HTML, CSS
+
 **Security:** Linux privilege escalation, SSH, network pivoting, port scanning, web exploitation
+
 **CS fundamentals:** OOP, SOLID, Data Structures & Algorithms
+
 **AI & Logic:** Minimax, Alpha-Beta pruning, heuristic evaluation, image processing
 
 ---
