@@ -19,11 +19,11 @@ career in penetration testing and red teaming.
 
 ## Skills
 
-**Languages:** C++, JavaScript, HTML, CSS
+**Languages:** C++, JavaScript, HTML, CSS, SQL, Python, Django.
 
-**Security:** Linux privilege escalation, SSH, network pivoting, port scanning, web exploitation
+**Security:** Linux privilege escalation, SSH, network pivoting, port scanning, web exploitation.
 
-**CS fundamentals:** OOP, SOLID, Data Structures & Algorithms
+**CS fundamentals:** OOP, SOLID, Data Structures & Algorithms, Computer Networks, Database Systems.
 
 **AI & Logic:** Minimax, Alpha-Beta pruning, heuristic evaluation, image processing
 
@@ -54,21 +54,21 @@ Strategy games with intelligent AI players.
 
 My contribution: Minimax and Alpha-Beta pruning for 5x5 Tic-Tac-Toe and Four-in-a-Row.
 
-Tech: C++
+Tech: C++.
 
 ### Enhanced Audio Player
 Feature-rich music application built with a university team.
 
 My contribution: Audio player core using the JUCE framework.
 
-Tech: C++
+Tech: C++, JUCE framework.
 
 ### Image Editing Project
 Digital image manipulation tool.
 
 My contribution: Image processing features and UI interactions.
 
-Tech: C++
+Tech: C++.
 
 ---
 
